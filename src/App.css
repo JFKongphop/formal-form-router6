@@ -1,0 +1,31 @@
+.name-app{
+  color: white;
+}
+
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  padding: 0 30px 0 30px;
+  background-color: #333;
+}
+
+.nav-link{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-decoration: none;
+}
+
+.link{
+  text-decoration: none;
+  margin: 10px;
+  color: #64748b;
+}
+ 
+.active{
+  color: #645cff;
+}
+
+
